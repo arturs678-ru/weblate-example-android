@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greeting">Привет, %1$s</string>
+    <string name="farewell">До свидания, %1$s</string>
+    <string name="apply">Применить</string>
+    <string name="decline">Отказ</string>
+</resources>
