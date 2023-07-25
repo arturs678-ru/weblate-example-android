@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="greeting">Hello, %1$s</string>
+    <string name="farewell">Goodbye, %1$s</string>
+    <string name="apply">Apply</string>
+    <string name="decline">Decline</string>
+</resources>
